@@ -1,0 +1,5 @@
+rootProject.name = 'registration-and-discovery-with-load-balancer'
+
+include 'eureka-server'
+include 'eureka-client'
+include 'eureka-core'
